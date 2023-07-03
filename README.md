@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Talk to the ai (powered by openai) who can help you make a dish out of up to 4 ingredients.
 
 ## Available Scripts
 
